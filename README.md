@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MurayaLevis
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Blockchain development
+- 🌱 Data analyst(SQL) , C# Developer.
 - 💞️ I’m looking to collaborate on any productive software development process
 - 📫 How to reach me via email murayaandrian@gmail.com
 
